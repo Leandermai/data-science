@@ -1,0 +1,8 @@
+stadt,flug_kosten,rueckflug,hotel_pro_tag,auto_pro_woche,start_datum,end_datum
+Paris,200,True,20,200,15.06.2020,18.06.2020
+London,,False,30,120,06.07.2019,16.07.2019
+Dubai,370,True,15,80,10.04.2020,24.04.2020
+Mumbai,450,False,10,70,01.03.2018,31.03.2018
+Berlin,,False,15,300,15.08.2020,21.08.2020
+Hong Kong,500,True,10,50,01.10.2020,12.10.2020
+Azoren,300,False,20,30,01.01.2021,28.02.2021
